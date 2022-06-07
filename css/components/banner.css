@@ -1,0 +1,8 @@
+.banner {
+    margin: 15px;
+    padding: 15px;
+    background-image: url("../../images/banner-image.jpg");
+    width: 95%;
+    height: 95%;
+
+}
